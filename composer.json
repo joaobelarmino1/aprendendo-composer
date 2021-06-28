@@ -1,0 +1,12 @@
+{
+    "name": "joaobelarmino1/buscador-cursos",
+    "description": "Projeto que busca os cursos no site da Alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "João Belarmino",
+            "email": "joao.silva@webjump.com.br"
+        }
+    ],
+    "require": {}
+}
